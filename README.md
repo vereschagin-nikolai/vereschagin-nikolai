@@ -5,13 +5,14 @@ Backend-разработчик на Python. Создаю практически�
 
 ## Стек
 
-- Python
 - FastAPI
+- Flask
 - PostgreSQL
-- SQLAlchemy / Alembic
-- Docker / Docker Compose
+- SQLite
+- SQLAlchemy
+- Docker
+- Git
 - pytest
-- Git / GitHub
 
 ## Сейчас работаю над
 
